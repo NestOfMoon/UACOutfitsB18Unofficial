@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ThingDefs>
+<Defs>
 
 
 <!-- ===============Bottom Layer============== -->
@@ -63,7 +63,7 @@
 				<li>Legs</li>
 				<li>Feet</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/UACCSuit</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/UACCSuit</wornGraphicPath>
       <layers>
         <li>OnSkin</li>
       </layers>
@@ -142,7 +142,7 @@
 				<li>Waist</li>
 				<li>Legs</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/BSuits/UACVIPSuit</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/BSuits/UACVIPSuit</wornGraphicPath>
       <layers>
 	    <li>Middle</li>
       </layers>
@@ -214,7 +214,7 @@
 				<li>Waist</li>
 				<li>Legs</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/BSuits/UACGreySuit</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/BSuits/UACGreySuit</wornGraphicPath>
       <layers>
 	    <li>Middle</li>
       </layers>
@@ -283,7 +283,7 @@
 				<li>Waist</li>
 				<li>Legs</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/LabCoats/UACLabcoat</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/LabCoats/UACLabcoat</wornGraphicPath>
       <layers>
 	    <li>Middle</li>
       </layers>
@@ -359,7 +359,7 @@
 				<li>Legs</li>
 				<li>Feet</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/Armor/UACArmor</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/Armor/UACArmor</wornGraphicPath>
       <layers>
         <li>Middle</li>
 		<li>Shell</li>
@@ -441,7 +441,7 @@
 				<li>Legs</li>
 				<li>Feet</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/Armor/UACArmor2</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/Armor/UACArmor2</wornGraphicPath>
       <layers>
         <li>Middle</li>
 		<li>Shell</li>
@@ -523,7 +523,7 @@
 				<li>Legs</li>
 				<li>Feet</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/Armor/UACArmor3</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/Armor/UACArmor3</wornGraphicPath>
       <layers>
         <li>Middle</li>
 		<li>Shell</li>
@@ -604,7 +604,7 @@
 				<li>Legs</li>
 				<li>Feet</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/Armor/UACArmor4</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/Armor/UACArmor4</wornGraphicPath>
       <layers>
         <li>Middle</li>
 		<li>Shell</li>
@@ -686,7 +686,7 @@
 				<li>Legs</li>
 				<li>Feet</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/Elite/UACLEET</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/Elite/UACLEET</wornGraphicPath>
       <layers>
         <li>Middle</li>
 		<li>Shell</li>
@@ -758,7 +758,7 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/UACWildcat</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/UACWildcat</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -827,7 +827,7 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/UACSheperd</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/UACSheperd</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -896,7 +896,7 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/UACRaven</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/UACRaven</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -965,7 +965,7 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/UACASP</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/UACASP</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -1029,7 +1029,7 @@
       <bodyPartGroups>
         <li>Eyes</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/BSuits/UACShades</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/BSuits/UACShades</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -1097,7 +1097,7 @@
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Things/Apparel/Elite/UACLEETHelm</worngraphicPath>
+      <wornGraphicPath>Things/Apparel/Elite/UACLEETHelm</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -1119,4 +1119,4 @@
    </equippedStatOffsets>
   </ThingDef> 
 
-   </ThingDefs>
+   </Defs>

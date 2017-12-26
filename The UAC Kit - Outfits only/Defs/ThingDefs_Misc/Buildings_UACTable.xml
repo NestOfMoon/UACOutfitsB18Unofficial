@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ThingDefs>
+<Defs>
 
     <ThingDef ParentName="BenchBase">
-    <DefName>UACTable</DefName>
+    <defName>UACTable</defName>
     <label>UAC armorer table</label>
-    <ThingClass>Building_WorkTable</ThingClass>
-    <Description>A work table for manufacturing UAC equipment.</Description>
+    <thingClass>Building_WorkTable</thingClass>
+    <description>A work table for manufacturing UAC equipment.</description>
     <graphicData>
       <texPath>Things/Buildings/UACTable</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -17,11 +17,11 @@
         <cornerBR>Damage/Corner</cornerBR>
       </damageData>
     </graphicData>
-    <CostList>
+    <costList>
       <Steel>100</Steel>
       <Component>4</Component>
-    </CostList>
-    <AltitudeLayer>Building</AltitudeLayer>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
     <fillPercent>0.5</fillPercent>
     <useHitPoints>True</useHitPoints>
     <statBases>
@@ -30,9 +30,9 @@
       <Flammability>1.0</Flammability>
       <Cleanliness>-2</Cleanliness>
     </statBases>
-    <Size>(3,1)</Size>
-    <DesignationCategory>Production</DesignationCategory>
-    <Passability>PassThroughOnly</Passability>
+    <size>(3,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
     <pathCost>70</pathCost>
     <hasInteractionCell>True</hasInteractionCell>
     <interactionCellOffset>(0,0,-1)</interactionCellOffset>
@@ -69,4 +69,4 @@
   </ThingDef>
 
 
-  </ThingDefs>
+  </Defs>
