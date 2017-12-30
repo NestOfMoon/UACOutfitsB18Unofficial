@@ -8,7 +8,7 @@ Why: I was impatient and wasn't intended to keep it for myself.
 
 WARNING: This patch is completely unofficial and provided "as is". If you using this product(ie UACOutfitsB18Unofficial) then you agree that author of this repository isn't responsible for any type of damage.
 
-Chicken Plucker & Co, please don't hurt me, if you want this repository to be gone then just message me here or moonnest96@gmail.com or steamcommunity.com/id/NestOfMoon (the last one isn't accessible if I'm not mistaken).
+Chicken Plucker & Co, allowed this stuff to be here. But ofcourse they are not responsible for this impatient patch.
 
 Also try out:
 https://github.com/NestOfMoon/RimworldUACFurnituresB18Unofficial
