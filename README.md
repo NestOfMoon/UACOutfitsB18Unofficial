@@ -25,7 +25,20 @@ This patch is completely unofficial and provided "as is". If you using this prod
 
 Chicken Plucker & Co, allowed this stuff to be here. But ofcourse they are not responsible for this impatient patch.
 
-### Also try out
+### Also try out other b18 patches
+Doom - UAC Furnitures
 https://github.com/NestOfMoon/RimworldUACFurnituresB18Unofficial
+
+DOOM - Human Factions
+https://drive.google.com/open?id=1F3IUHLU-cLNoeYSeXZQxKZcTBVR6-3lk
+
+DOOM Kit - Outfits only
+https://drive.google.com/open?id=1fBHnEF9sbNmyKelTB3kXenU2HvmDNUIs
+
+The Doom Kit
+https://drive.google.com/open?id=1rpYGGl9jiiYIvXZ-pZvNBnn44UszJRu6
+
+The UAC Kit
+https://drive.google.com/open?id=1F0HollJhDVfdgfDc1I02nRuq_kg4mnU0
 
 Thanks for reading.
